@@ -610,7 +610,7 @@ ul li:nth-child(4):hover span{
 }
 
 #bejton:hover {
-  background: #F28C28;
+  background: #ff0808;
 }
 
 #bejton:hover #circle {
@@ -618,7 +618,7 @@ ul li:nth-child(4):hover span{
   width: 150px;
   left: 0;
   border-radius: 0;
-  border-bottom: 2px solid #F28C28;
+  border-bottom: 2px solid #ff0808;
 }
 
 
